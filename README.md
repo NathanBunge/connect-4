@@ -1,10 +1,10 @@
-"# connect-4" 
+# Welcome to connect-4
 
 ## Team Members
-Nathan Bunge: Lab 3
-Tom Arad: Lab 7
-Jared Hardwig: Lab 3
-Jake Bortles: Lab 3
+- Nathan Bunge: Lab 3
+- Tom Arad: Lab 7
+- Jared Hardwig: Lab 3
+- Jake Bortles: Lab 3
 
 ## Setting up the game:
 To get 2 games running on one computer, you must find the connect4.exe file in the debug folder and open this twice. 
@@ -17,3 +17,6 @@ Once you have two windows open, you will need to choose on of them to be the ser
 This process is the same if you are running on one or two computers becuase when you are running on one computer you are simulating what it is like to run on two.
 IMORTANT: Two computers can only connect if they are using the same wifi (or the same same router network).
 IMORTANT: This code will NOT run on linux (sorry)
+
+
+## Demo Video:
