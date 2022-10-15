@@ -1,0 +1,6 @@
+*.dll
+Debug/
+*.log
+*.vcxproj*
+.vs/
+*.lnk
